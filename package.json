@@ -12,7 +12,7 @@
         "test": "./test/run.sh"
     },
     "dependencies":{
-        "istanbul":"0.1.x",
+        "istanbul": "git://github.com/rymai/istanbul.git#instrument-coffeescript",
         "express":"3.x",
         "archiver": "0.4.x"
     },
